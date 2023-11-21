@@ -1,31 +1,26 @@
 [
 	{
-		"_id": "CS4550",
-		"name": "Web Development",
-		"number": "CS4550",
-		"startDate": "2023-09-07",
-		"endDate": "2023-12-15"
+		"_id": "RS101",
+		"name": "CS5610 11744 Web Development",
+		"number": "CS5610.11744.202310",
+		"topic": "202310_2 Fall 2023 Semester Full Term",
+		"startDate": "2023-01-10",
+		"endDate": "2023-05-15"
 	},
 	{
-		"_id": "CS5010",
-		"name": "Programming Design Paradigm",
-		"number": "CS5010",
-		"startDate": "2023-01-07",
-		"endDate": "2023-04-15"
+		"_id": "RS102",
+		"name": "CS5010 Program Design Paradigms",
+		"number": "CS5010.37286.202330",
+		"topic": "202310_2 Fall 2023 Semester Full Term",
+		"startDate": "2023-01-10",
+		"endDate": "2023-05-15"
 	},
 	{
-		"_id": "CS6140",
-		"name": "Machine Learning",
-		"number": "CS6140",
-		"startDate": "2023-09-07",
-		"endDate": "2023-12-15"
-	},
-	{
-		"_id" : "DS2000",
-		"name": "Programming with Data",
-		"number": "DS2000",
-		"startDate": "2023-01-08",
-		"endDate": "2023-12-16"
+		"_id": "RS103",
+		"name": "Natural Language Processing",
+		"number": "CS6120.41205.202330",
+		"topic": "202310_2 Fall 2023 Semester Full Term",
+		"startDate": "2023-01-10",
+		"endDate": "2023-05-15"
 	}
-
 ]
