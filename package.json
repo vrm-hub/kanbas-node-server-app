@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ronhitneema/kanbas-node-server-app.git"
+    "url": "git+https://github.com/vrm-hub/kanbas-node-server-app.git"
   },
   "keywords": [
     "Node",
@@ -21,9 +21,9 @@
   "author": "Vinay R menon",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ronhitneema/kanbas-node-server-app/issues"
+    "url": "https://github.com/vrm-hub/kanbas-node-server-app/issues"
   },
-  "homepage": "https://github.com/ronhitneema/kanbas-node-server-app#readme",
+  "homepage": "https://github.com/vrm-hub/kanbas-node-server-app#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.3.1",
